@@ -1,0 +1,5 @@
+1.  $git init
+2.  $git log
+3.  $git status   #要查看哪些文件处于什么状态，可以用 git status 命令
+4.  $git add XXX文件 #使用命令 git add 开始跟踪一个文件、或者把已跟踪的文件放到暂存区，还能用于合并时把有冲突的文件标记为已解决状态等。
+5.  $git diff   #要查看尚未暂存的文件更新了哪些部分，不加参数直接输入 git diff
